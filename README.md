@@ -9,6 +9,4 @@ Javascript,Php,Sql Database,Ui and Ux.
 <img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%202).png?raw=true" alt="imagewithmodi">
 <img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png" alt="image">
 <img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png" alt="image">
-<img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png" alt="image">
-<img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png" alt="image">
-https://github.com/AnandPatelP217/criminal_database/blob/main/preview(home%203).png?raw=true
+<img src="[https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png](https://github.com/AnandPatelP217/criminal_database/blob/main/preview(home%203).png?raw=true)" alt="image">
