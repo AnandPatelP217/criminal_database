@@ -8,5 +8,5 @@ Javascript,Php,Sql Database,Ui and Ux.
 <h1> Screenshots</h1>
 <img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%202).png?raw=true" alt="imagewithmodi">
 <img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png" alt="image">
-<img src="https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png" alt="image">
-<img src="[https://github.com/AnandPatelP217/criminal_database/blob/main/preview%20(home%201).png](https://github.com/AnandPatelP217/criminal_database/blob/main/preview(home%203).png?raw=true)" alt="image">
+<img src="https://raw.githubusercontent.com/AnandPatelP217/criminal_database/main/preview(home%203).png" alt="image0">
+
